@@ -1,0 +1,7 @@
+What it covers
+PDF ingestion and chunking
+Embeddings via OpenAI or HuggingFace
+Local Chroma vector storage
+FastAPI query endpoint
+Docker containerization
+Setup and usage documentation
